@@ -1,0 +1,10 @@
+# Qt Creator & CMake build dirs
+build-*/
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+compile_commands.json
+*.user
+*.user.*
